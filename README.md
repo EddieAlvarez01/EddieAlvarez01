@@ -2,7 +2,7 @@
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=EddieAlvarez01&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
 
 [comment]: <> (GITHUB LANGUAJES)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieAlvarez01)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EddieAlvarez01&hide=html,css)](https://github.com/anuraghazra/github-readme-stats)
 
 ### Languages and Tools:
 
